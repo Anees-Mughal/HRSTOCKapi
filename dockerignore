@@ -1,0 +1,8 @@
+**/bin/
+**/obj/
+publish/
+*.bak
+.git/
+.github/
+.vs/
+README-APi.md
