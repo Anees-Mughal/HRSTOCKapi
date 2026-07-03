@@ -1,0 +1,23 @@
+# Visual Studio / ASP.NET build output
+.vs/
+**/.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.rsuser
+
+# Local app settings and secrets
+**/appsettings.json
+**/appsettings.*.json
+!**/appsettings.example.json
+
+# Logs and archives
+*.log
+*.zip
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
